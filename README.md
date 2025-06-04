@@ -10,6 +10,7 @@ A beginner-friendly flashcard app built with Python and Tkinter to help users le
 - Clean and simple UI using Tkinter  
 
 ## 🗂️ Project Structure
+.
 ├── data/
 │   ├── japanese_words.csv         # Full word list
 │   └── words_to_learn.csv         # Tracks progress
